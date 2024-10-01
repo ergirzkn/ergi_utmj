@@ -1,2 +1,2 @@
-# Pertemuan2
-belajar netbin
+# Aplikasi Form Hitung
+belajar membuat form hitung dengan netbins
