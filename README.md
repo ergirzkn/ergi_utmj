@@ -1,2 +1,2 @@
-# ergi_utmj
-belajar netbind
+# Pertemuan2
+belajar netbin
